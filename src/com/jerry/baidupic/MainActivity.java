@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 	 * 其它参数照抄上述api地址中的就行。
 	 */
 	private String JSONDataUrl = "http://image.baidu.com/i?tn=baiduimagejson&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr="
-			+ "&sf=1&fmq=1349413075627_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&word=xingkong&rn=";
+			+ "&sf=1&fmq=1349413075627_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&word=gaoqing&rn=";
 	
 	private ListView mListView ;
 	private List<String> mDatas;
