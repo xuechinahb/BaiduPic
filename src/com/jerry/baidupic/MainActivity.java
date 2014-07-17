@@ -20,6 +20,11 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 
+/**
+ * Notice: json data includes duplicate image url, so listview will display duplicate imageview. 
+ * @author jerry
+ * Jul 17, 2014
+ */
 public class MainActivity extends Activity {
 
 	/**
